@@ -1,0 +1,14 @@
+msgid "year_ad"
+msgstr "西元"
+
+msgid "week_day"
+msgstr "星期"
+
+msgid "lunar_prefix"
+msgstr "農曆"
+
+msgid "lunaryear_prefix"
+msgstr "歲次"
+
+msgid "lunar_12"
+msgstr "臘月"
