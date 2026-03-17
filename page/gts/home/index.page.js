@@ -71,7 +71,6 @@ Page({
     const date = t.getDate()
     const day = t.getDay()
     
-    const rocYear = year - 1911
     const weekDays = ['日', '一', '二', '三', '四', '五', '六']
     const dayStr = `${weekDays[day % 7]}`
 
@@ -79,7 +78,7 @@ Page({
     const lunarStr = this.formatLunar(t.getLunarMonth(), t.getLunarDay(), t.getShowFestival())
     const lunarYear = t.getLunarYear().replace('年','')
 
-    this.state.line1.setProperty(prop.MORE, { text: `${getText('year_ad')}${year}年 / 民國${rocYear}年` })
+    this.state.line1.setProperty(prop.MORE, { text: `${getText('year_ad')}${year}年` })
     this.state.line2.setProperty(prop.MORE, { text: `${month}月` })
     this.state.line3.setProperty(prop.MORE, { text: `${date}` })
     this.state.line4.setProperty(prop.MORE, { text: `${getText('week_day')}${dayStr}` })
