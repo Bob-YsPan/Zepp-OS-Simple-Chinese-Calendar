@@ -23,7 +23,7 @@
     }
   },
   "debug": false,
-"targets": {
+  "targets": {
     "round_466": {
       "module": {
         "page": {
@@ -33,8 +33,9 @@
         }
       },
       "platforms": [
-        { "name": "gtr4", "deviceSource": 7930112 },
-        { "name": "gtr4-w", "deviceSource": 7930113 },
+        { "name": "gtr4-cn", "deviceSource": 7930112 },
+        { "name": "gtr4", "deviceSource": 7930113 },
+        { "name": "gtr4-w1", "deviceSource": 7864577 },
 
         { "name": "active2-round-cn", "deviceSource": 8913152 },
         { "name": "active2-round", "deviceSource": 8913153 },
@@ -82,12 +83,15 @@
         { "name": "trex3pro48", "deviceSource": 10551553 },
         { "name": "trex3pro48-w", "deviceSource": 10551555 },
 
-        { "name": "activemax", "deviceSource": 10813697 },
-        { "name": "activemax-w", "deviceSource": 10813699 },
+        { "name": "activemax-cn", "deviceSource": 10813697 },
+        { "name": "activemax", "deviceSource": 10813699 },
 
         { "name": "trexultra2-cn", "deviceSource": 10879232 },
         { "name": "trexultra2", "deviceSource": 10879233 },
-        { "name": "trexultra2-w", "deviceSource": 10879235 }
+        { "name": "trexultra2-w", "deviceSource": 10879235 },
+
+        { "name": "cheetah-pro-cn", "deviceSource": 8126720 },
+        { "name": "cheetah-pro", "deviceSource": 8126721 }
       ],
       "designWidth": 480
     },
@@ -104,7 +108,10 @@
         { "name": "cheetah-round", "deviceSource": 8192257 },
 
         { "name": "trexultra-cn", "deviceSource": 6553856 },
-        { "name": "trexultra", "deviceSource": 6553857 }
+        { "name": "trexultra", "deviceSource": 6553857 },
+
+        { "name": "trex2-cn", "deviceSource": 418 },
+        { "name": "trex2", "deviceSource": 419 }
       ],
       "designWidth": 454
     },
@@ -117,8 +124,10 @@
         }
       },
       "platforms": [
-        { "name": "gtrmini", "deviceSource": 250 },
-        { "name": "gtrmini-w", "deviceSource": 251 }
+        { "name": "gtrmini", "deviceSource": 251 },
+
+        { "name": "falcon-cn", "deviceSource": 414 },
+        { "name": "falcon", "deviceSource": 415 }
       ],
       "designWidth": 416
     },
@@ -145,8 +154,8 @@
         }
       },
       "platforms": [
-        { "name": "gts4", "deviceSource": 7995648 },
-        { "name": "gts4-w", "deviceSource": 7995649 },
+        { "name": "gts4-cn", "deviceSource": 7995648 },
+        { "name": "gts4", "deviceSource": 7995649 },
 
         { "name": "cheetah-square", "deviceSource": 8257793 },
 
@@ -154,12 +163,12 @@
         { "name": "bip6", "deviceSource": 9765121 },
         { "name": "bip6-w", "deviceSource": 10158337 },
 
-        { "name": "active-w", "deviceSource": 8323329 },
-        { "name": "active", "deviceSource": 8323328 },
+        { "name": "active-cn", "deviceSource": 8323328 },
+        { "name": "active", "deviceSource": 8323329 },
 
-        { "name": "active-2-square", "deviceSource": 10223872 },
-        { "name": "active-2-square-w1", "deviceSource": 10223873 },
-        { "name": "active-2-square-w2", "deviceSource": 10223875 }
+        { "name": "active2-square-cn", "deviceSource": 10223872 },
+        { "name": "active2-square", "deviceSource": 10223873 },
+        { "name": "active2-square-w", "deviceSource": 10223875 }
       ],
       "designWidth": 390
     },
@@ -175,7 +184,7 @@
         { "name": "bip5-cn", "deviceSource": 8454400 },
         { "name": "bip5", "deviceSource": 8454401 },
 
-        { "name": "bip5unity", "deviceSource": 8782081 },
+        { "name": "bip5unity-cn", "deviceSource": 8782081 },
         { "name": "bip5unity-w1", "deviceSource": 8782088 },
         { "name": "bip5unity-w2", "deviceSource": 8782089 }
       ],
