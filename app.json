@@ -2,7 +2,7 @@
   "configVersion": "v2",
   "app": {
     "appId": 1108938,
-    "appName": "Simple Chinese Calendar",
+    "appName": "简易中文日历",
     "appType": "app",
     "version": {
       "code": 1,
@@ -10,7 +10,7 @@
     },
     "icon": "icon.png",
     "vender": "ys-studio",
-    "description": "Simple Chinese Calendar, need switches language to Chinese to use it!"
+    "description": "一个简易的中文日历程序"
   },
   "permissions": [
     "data:os.device.info"
@@ -202,5 +202,5 @@
       "appName": "簡易中文日曆"
     }
   },
-  "defaultLanguage": "en-US"
+  "defaultLanguage": "zh-CN"
 }
