@@ -192,9 +192,6 @@
     }
   },
   "i18n": {
-    "en-US": {
-      "appName": "Simple Chinese Calendar"
-    },
     "zh-CN": {
       "appName": "简易中文日历"
     },

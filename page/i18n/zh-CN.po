@@ -12,3 +12,6 @@ msgstr "岁次"
 
 msgid "lunar_12"
 msgstr "腊月"
+
+msgid "lang_wrong"
+msgstr "Please switch language\nto Chinese(中文)!"
