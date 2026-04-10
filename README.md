@@ -45,39 +45,39 @@
 (使用`packet_model_helper.py`自動產生)
 
 ```
-檔案名稱: round_360-Apollo-360x360.zpk
+檔案名稱: round-360-Apollo-Apollo-360x360.zpk
 主要型號: activeedge
 ------------------------------------------------------------
-檔案名稱: round_416-MHS002-416x416.zpk
+檔案名稱: round-416-MHS-MHS002-416x416.zpk
 主要型號: gtrmini
 ------------------------------------------------------------
-檔案名稱: round_416-NXP-416x416.zpk
+檔案名稱: round-416-NXP-NXP-416x416.zpk
 主要型號: falcon
 ------------------------------------------------------------
-檔案名稱: round_454-NXP-454x454.zpk
+檔案名稱: round-454-NXP-NXP-454x454.zpk
 主要型號: cheetah-round, trex2, trexultra
 ------------------------------------------------------------
-檔案名稱: round_466-MHS-466x466.zpk
+檔案名稱: round-466-MHS-MHS-466x466.zpk
 主要型號: active2-round, active2-round-2024, active3premium, trex3pro44
 ------------------------------------------------------------
-檔案名稱: round_466-NXP-466x466.zpk
+檔案名稱: round-466-NXP-NXP-466x466.zpk
 主要型號: gtr4
 ------------------------------------------------------------
-檔案名稱: round_480-MHS-480x480.zpk
+檔案名稱: round-480-MHS-MHS-480x480.zpk
 主要型號: activemax, balance2, trex3, trex3pro48, trexultra2
 ------------------------------------------------------------
-檔案名稱: round_480-NXP-480x480.zpk
+檔案名稱: round-480-NXP-NXP-480x480.zpk
 主要型號: balance, cheetah-pro
 ------------------------------------------------------------
-檔案名稱: square_320-Apollo-320x380.zpk
+檔案名稱: square-320-Apollo-Apollo-320x380.zpk
 主要型號: bip5, bip5unity
 ------------------------------------------------------------
-檔案名稱: square_390-Apollo-390x450.zpk
+檔案名稱: square-390-Apollo-Apollo-390x450.zpk
 主要型號: active
 ------------------------------------------------------------
-檔案名稱: square_390-MHS-390x450.zpk
+檔案名稱: square-390-MHS-MHS-390x450.zpk
 主要型號: active2-square, bip6
 ------------------------------------------------------------
-檔案名稱: square_390-NXP-390x450.zpk
+檔案名稱: square-390-NXP-NXP-390x450.zpk
 主要型號: cheetah-square, gts4
 ```
